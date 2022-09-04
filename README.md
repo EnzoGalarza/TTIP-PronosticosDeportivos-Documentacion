@@ -1,6 +1,6 @@
 # Pronósticos Deportivos
 
-![image](https://user-images.githubusercontent.com/42482452/188287617-582bb020-9519-4fbc-984e-4d92ac42d1b0.png)
+![image](https://user-images.githubusercontent.com/42482452/188290344-391ee8a9-b898-479e-afe4-b4575095a756.png)
 
 Pronósticos Deportivos es una aplicación que permite pronosticar resultados de partidos con el objetivo de
 participar en competencias de amigos que tienen una tabla de posiciones basada en la puntuación obtenida con
